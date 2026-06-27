@@ -69,7 +69,7 @@ I am an **AI Solutions Architect & Energy Systems Engineer**, combining a deep d
 
 ## 💻 Featured Portfolio Work
 
-### [EPC Solar Engine](https://github.com/yashjgupta/solar-ai-engine) | *Lead Architect & Engineer*
+### [EPC Solar Engine](https://github.com/Realsinister/epc-solar-landing-page) | *Lead Architect & Engineer*
 *A next-generation PV Module MCDA and Executive Financial Optimizer.*
 - **System Architecture:** Engineered a commercial-grade, natively compiled (`.exe`) desktop analytics application from scratch using Python/FastAPI.
 - **AI Automation:** Integrated Multi-Agent Systems to ingest and structure specifications from 100+ unstructured manufacturer PDFs, reducing manual workflows by 60%.
