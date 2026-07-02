@@ -73,8 +73,8 @@ I am an **AI Solutions Architect & Energy Systems Engineer**, combining a deep d
 *A next-generation PV Module MCDA and Executive Financial Optimizer.*
 - **System Architecture:** Engineered a commercial-grade, natively compiled (`.exe`) desktop analytics application from scratch using Python/FastAPI.
 - **AI Automation:** Integrated Multi-Agent Systems to ingest and structure specifications from 100+ unstructured manufacturer PDFs, reducing manual workflows by 60%.
-- **Decision Engine:** Built a proprietary Multi-Criteria Decision Analysis (MCDA) logic evaluating complex Eco/Cost/Tech trade-offs for utility-scale solar EPCs.
-- **Stakeholder Focus:** Created an automated "Elevator Pitch Generator" that dynamically translates data-sensitivity models into clear, actionable executive summaries.
+- **Decision Engine:** Built a proprietary Multi-Criteria Decision Analysis (MCDA) logic evaluating complex Eco/Cost/Tech trade-offs for utility-scale solar EPCs, leveraging **NumPy** for zero-latency vectorized mathematics.
+- **Stakeholder Focus:** Created an automated "Elevator Pitch Generator" alongside interactive **Plotly** and **Matplotlib** analytics dashboards that dynamically translate data-sensitivity models into clear, actionable executive summaries.
 
 ### IRES Repowering Tool | *Simulation Architect*
 *Grid-scale techno-economic simulation for dynamic tariff forecasting.*
